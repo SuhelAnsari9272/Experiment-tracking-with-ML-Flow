@@ -38,6 +38,7 @@ pip-delete-this-directory.txt
 
 
 mlruns/ 
+mlartifacts/
 
 # Unit test / coverage reports
 htmlcov/
